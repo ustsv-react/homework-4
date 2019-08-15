@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.row:hover {
+  background: grey;
+  color: white;
+  cursor: pointer;
+}
